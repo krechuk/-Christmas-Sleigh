@@ -1,0 +1,16 @@
+{
+	"name": "Christmas Sleigh",
+	"short_name": "Christmas Sleigh",
+	"description": "Christmas Sleigh",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "460x460",
+			"type": "image/png"
+		}
+	]
+}
